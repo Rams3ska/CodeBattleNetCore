@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eZAC/t6hhGHoTcvqQUKJypwFe+bcP16r4QVx1bYvVT/D+UzcGbkfYz4S81Dx4oWh0WOXnpIizAkiK1t9IUnsZQ==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\CodeBattleNetCore\\Tetris\\Tetris.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rams3ska\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
